@@ -137,7 +137,7 @@ function handleItemAdd() {
     // get email (this is auto stored by firebase when the user is logged in)
     const userEmail = auth.currentUser.email;
 
-    /* STEP 4: Call function storeToDoItem which is located in file 'StoreToDoItem' and pass in the following 
+    /*Call function storeToDoItem which is located in file 'StoreToDoItem' and pass in the following 
     parameters:
     1) userID
     2) userEmail 
@@ -153,7 +153,7 @@ function handleItemAdd() {
       in the user's todo list collection
     */
 
-    /* STEP 7: Call function fetchAndDisplayAllToDoItems which is located in file 'main.js' and pass in the following 
+    /* Call function fetchAndDisplayAllToDoItems which is located in file 'main.js' and pass in the following 
     parameters:
     1) userID 
     */

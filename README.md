@@ -1,4 +1,4 @@
-# Learn With Firebase 🔥
+# Firebase 🔥
 
 ## Description 📝 
 

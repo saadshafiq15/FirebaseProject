@@ -4,8 +4,7 @@ import { collection, getDocs } from "https://www.gstatic.com/firebasejs/10.5.2/f
 export async function fetchAllToDoItems(userId) {
     try {
         
-        /*STEP 8: Get a refernce to the collection we want to store. Lets use the following documentation 
-        to figure this out: https://firebase.google.com/docs/firestore/query-data/get-data */
+        //Get a refernce to the collection we want to store.
         const userTodoListCollection = collection(db, `todo-list-${userId}`);
 
         // get all the documents in the user specified collection

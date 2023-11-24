@@ -10,7 +10,7 @@ import { getFirestore } from "https://www.gstatic.com/firebasejs/10.5.2/firebase
 // messagingSenderId: Sender ID for sending messages via Firebase Cloud Messaging
 // appId: Application ID for the Firebase app, it is unique to this application
 
-// STEP 1: Declare Firebase Environment Variables  
+// Declare Firebase Environment Variables  
 const firebaseConfig = {
     apiKey: "AIzaSyBbXa_8OSOL7YclcoZwlroY9UO8-mTGTGE",
     authDomain: "fir-todo-8b2a8.firebaseapp.com",
