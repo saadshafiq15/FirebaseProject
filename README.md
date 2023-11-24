@@ -5,7 +5,7 @@
 Learn the fundamentals of Firebase through creating a to-do web application. This project will outline the steps required 
 for setting up Firebase, integrating its various services into your application, and deploying your website for the world to see!
 
-## What you'll Learn 📚
+## What I Learned 📚
 
 1) **Firebase Authentication**: Leverage Google Authentication to have users sign in using
 their Google accounts.
@@ -21,6 +21,3 @@ In order to effectively complete this project please ensure you have the followi
 2) GitHub account ✅  
 3) Visual Studio Code (VS) Installed ✅
 4) Live server extension ✅
-
-If you need assistance in installing the following applications, please refer to the following step-by-step tutorial:  
-https://www.gdscguelph.com/workshops/learn-with-firebase
