@@ -2,8 +2,8 @@
 
 ## Description 📝 
 
-Learn the fundamentals of Firebase through creating a to-do web application. This project will outline the steps required 
-for setting up Firebase, integrating its various services into your application, and deploying your website for the world to see!
+Learned the fundamentals of Firebase through creating a to-do web application. This project followed steps required 
+for setting up Firebase, integrating its various services into my application, and deploying my website for the world to see!
 
 ## What I Learned 📚
 
@@ -11,12 +11,12 @@ for setting up Firebase, integrating its various services into your application,
 their Google accounts.
 2) **Realtime Database**: Learn database fundamentals and integrate Firebase's NoSQL
 database into your project.
-3) **Application Deployment**: Deploy your application with GitHub Pages so the world can
+3) **Application Deployment**: Deploy application with GitHub Pages so the world can
 see it
 
 ## Prerequisites 📄
 
-In order to effectively complete this project please ensure you have the following prerequisites:
+Prerequisites needed:
 1) Git Installed ✅  
 2) GitHub account ✅  
 3) Visual Studio Code (VS) Installed ✅
